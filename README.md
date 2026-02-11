@@ -37,7 +37,7 @@ I am a passionate **Problem Solver** and **Developer**, dedicated to building sc
 
 ## 📊 Performance & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advtik&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <a href="https://stats.hyo.dev/stats/nishcurse"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=nishcurse" width="600" /></a>
 </p>
 
 ---
