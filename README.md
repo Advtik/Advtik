@@ -37,7 +37,7 @@ I am a passionate **Problem Solver** and **Developer**, dedicated to building sc
 
 ## 📊 Performance & Stats
 <p align="center">
-  <a href="https://stats.hyo.dev/stats/nishcurse"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=nishcurse" width="600" /></a>
+  <a href="https://stats.hyo.dev/stats/advtik"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=advtik" width="600" /></a>
 </p>
 
 ---
