@@ -14,10 +14,10 @@ Advtik
 ## 💫 About Me
 I am a passionate **Problem Solver** and **Developer**, dedicated to building scalable web applications and mastering complex algorithms.
 
-- 🚀 **Currently working on:** [Enmate](https://enmate.vercel.app)
+- 🚀 **Currently working on:** [Strata](https://strata-advtik.vercel.app)
 - 📚 **Expanding my stack:** Python, PostgreSQL, and FastAPI
 - 💬 **Let's talk about:** Node.js, React, and C++ Optimization
-- 📫 **Reach me at:** [sadwiteek@gmail.com](mailto:sadwiteek@gmail.com)
+- 📫 **Reach me at:** [sadwiteek@gmail.com](mailto:adwiteek.dev@gmail.com)
 
 ---
 
